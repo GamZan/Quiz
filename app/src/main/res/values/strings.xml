@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MindQuiz</string>
+    <string name="welcome_text">Welcome to Mind Quiz</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="next_page">next page</string>
+    <string name="submit">submit</string>
+    <string name="back">back</string>
+    <string name="retry">retry</string>
+    <string name="Result">Survey result</string>
+    <string name="born_day">Specify the date of birth</string>
+</resources>

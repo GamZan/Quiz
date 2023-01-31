@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MindQuiz</string>
+    <string name="welcome_text">Добро пожаловать в Mind Quiz</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="next_page">Перейти к опросу</string>
+    <string name="submit">Отправить</string>
+    <string name="back">Назад</string>
+    <string name="retry">Повторить</string>
+    <string name="Result">Результат опроса</string>
+    <string name="born_day">Укажите дату рождения</string>
+</resources>
